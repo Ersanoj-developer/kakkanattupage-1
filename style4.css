@@ -16,9 +16,7 @@ img {
     width: 100%;
 }
 
-.fade {
-    animation: fade 1.5s ease-in-out infinite;
-}
+
 
 @keyframes fade {
     from {
