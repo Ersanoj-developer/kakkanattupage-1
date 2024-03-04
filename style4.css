@@ -16,15 +16,4 @@ img {
     width: 100%;
 }
 
-.fade {
-    animation: fade 0.1ms ease-in-out infinite;
-}
 
-@keyframes fade {
-    from {
-        opacity: 0.4;
-    }
-    to {
-        opacity: 1;
-    }
-}
