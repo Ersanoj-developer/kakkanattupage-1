@@ -11,5 +11,5 @@ function showSlides() {
         slideIndex = 1;
     }
     slides[slideIndex - 1].style.display = "block";
-    setTimeout(showSlides, 3000); // Change slide every 30 seconds
+    setTimeout(showSlides, 2000); // Change slide every 30 seconds
 }
